@@ -16,6 +16,6 @@ This project provides abstractions for analyzing sentiment in tweets from a spec
    git clone https://github.com/kinyonyi/sicp.git
    cd sicp
 2. ### Project Depencies:
-   After cloning the repository, make sure you install the following as they will be necessary to run the project.
-   Racket IDE downloadable at https://racket-lang.org/
-   Data science package which can be found at https://github.com/n3mo/data-science
+   - After cloning the repository, make sure you install the following as they will be necessary to run the project.
+   - Racket IDE downloadable at https://racket-lang.org/
+   - Data science package which can be found at https://github.com/n3mo/data-science
