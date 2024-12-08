@@ -3,7 +3,7 @@ This project provides abstractions for analyzing sentiment in tweets from a spec
 
 ## Features
 
-- **Sentiment Analysis**: Classify tweets as positive, negative, or neutral using pre-built sentiment analysis tools.
+- **Sentiment Analysis**: Classify tweets as positive and negative using pre-built sentiment analysis tools.
 - **Country-Specific Filtering**: Filter tweets by a specific country, based on location metadata provided by the Twitter API.
 - **Temporal Sentiment Tracking**: Track sentiment trends over a 12-month period.
 - **CSV Data Handling**: Tools for reading and processing CSV files containing tweet data.
@@ -15,3 +15,7 @@ This project provides abstractions for analyzing sentiment in tweets from a spec
    ```bash
    git clone https://github.com/kinyonyi/sicp.git
    cd sicp
+2. **Project Depencies**
+   After cloning the repository, make sure you install the following as they will be necessary to run the project.
+   Racket IDE downloadable at https://racket-lang.org/
+   Data science package which can be found at https://github.com/n3mo/data-science
